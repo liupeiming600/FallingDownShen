@@ -1,0 +1,2 @@
+C:\Users\Michele\Downloads\Task2-LabRetreat-master\UnityProjects\Lab-retreat-Task2\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Michele\Downloads\Task2-LabRetreat-master\UnityProjects\Lab-retreat-Task2\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
